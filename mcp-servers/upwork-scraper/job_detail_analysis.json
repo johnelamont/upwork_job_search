@@ -1,0 +1,46 @@
+{
+  "url": "https://www.upwork.com/jobs/~021989774412036501954",
+  "total_data_test_attrs": 9,
+  "data_test_list": [
+    "menu-caret",
+    "theme-selector-menu",
+    "Description",
+    "deliverables",
+    "deliverable",
+    "popper",
+    "popper-close-btn",
+    "popper-arrow",
+    "about-client-container"
+  ],
+  "potential_fields": {
+    "Description": [
+      {
+        "selector": "[data-test*=\"Description\"]",
+        "text": "Summary\n\nWe are seeking a strategic partner to automate our client acquisition processes within GoHi",
+        "tag": "div"
+      },
+      {
+        "selector": "[class*=\"description\"]",
+        "text": "Hourly",
+        "tag": "div"
+      },
+      {
+        "selector": "[class*=\"description\"]",
+        "text": "Duration",
+        "tag": "div"
+      },
+      {
+        "selector": "[class*=\"description\"]",
+        "text": "I am looking for a mix of experience and value",
+        "tag": "div"
+      }
+    ],
+    "Client Info": [
+      {
+        "selector": "[data-test*=\"client\"]",
+        "text": "About the client\nPayment method verified\nPhone number verified\nRating is 4.9 out of 5.\n4.9\n4.93 of 2",
+        "tag": "div"
+      }
+    ]
+  }
+}

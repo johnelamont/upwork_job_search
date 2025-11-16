@@ -1,0 +1,90 @@
+[
+  {
+    "Field Name": "Title",
+    "Immediate Selector": "<title></title>",
+    "Selector": "<title>CRM Automation and Strategy Consultant - Digital Marketing</title>
+<link type="font/woff2" rel="preload" href="https://www.upwork.com/static/fonts-global/4.6.0/neue-montreal-variable.woff2" as="font" crossorigin="anonymous">",
+    "Comments": ""
+  },
+  {
+    "Field Name": "Number Of Connects",
+    "Immediate Selector": "<div>Send a proposal for: <strong>15 Connects</strong></div>",
+    "Selector": "<rect width="2" height="18" x="5" y="3" fill="none" vector-effect="non-scaling-stroke" stroke="var(--icon-color, #001e00)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></rect></svg></div>Flag as inappropriate</button><!----></div><div class="text-light-on-muted text-body-sm mt-4" data-v-73c2c436=""><div>Send a proposal for: <strong>15 Connects</strong></div><div class="mt-2">Available Connects: <strong>8</strong></div></div><!----><div class="cfe-ui-job-about-client mt-7" data-test="about-client-container" data-v-73c2c436="" data-v-0c4ea9a2="">",
+    "Comments": "All I need is the number, which in this case = 15"
+  },
+  {
+    "Field Name": "Country",
+    "Immediate Selector": "<strong data-v-0c4ea9a2="">USA</strong>",
+    "Selector": "<li data-qa="client-location" data-v-0c4ea9a2=""><strong data-v-0c4ea9a2="">USA</strong><div data-v-0c4ea9a2=""><span class="nowrap" data-v-0c4ea9a2="">Kansas City</span><span class="nowrap ml-1" data-v-0c4ea9a2="">2:19 PM </span></div></li>",
+    "Comments": ""
+  },
+  {
+    "Field Name": "City",
+    "Immediate Selector": "<span class="nowrap" data-v-0c4ea9a2="">Kansas City</span>",
+    "Selector": "<li data-qa="client-location" data-v-0c4ea9a2=""><strong data-v-0c4ea9a2="">USA</strong><div data-v-0c4ea9a2=""><span class="nowrap" data-v-0c4ea9a2="">Kansas City</span><span class="nowrap ml-1" data-v-0c4ea9a2="">2:19 PM </span></div></li>",
+    "Comments": ""
+  },
+  {
+    "Field Name": "Time",
+    "Immediate Selector": "<span class="nowrap ml-1" data-v-0c4ea9a2="">2:19 PM </span>",
+    "Selector": "<li data-qa="client-location" data-v-0c4ea9a2=""><strong data-v-0c4ea9a2="">USA</strong><div data-v-0c4ea9a2=""><span class="nowrap" data-v-0c4ea9a2="">Kansas City</span><span class="nowrap ml-1" data-v-0c4ea9a2="">2:19 PM </span></div></li>",
+    "Comments": ""
+  },
+  {
+    "Field Name": "Summary",
+    "Immediate Selector": "<p class="text-body-sm" data-v-af7e59e9="">",
+    "Selector": "<strong class="text-base-sm" data-v-af7e59e9="">Summary</strong><p class="text-body-sm" data-v-af7e59e9="">We are seeking a strategic partner to automate our client acquisition processes within GoHighLevel. The ideal candidate will assess our current setup and provide strategic recommendations to align with our business goals. If a different CRM is deemed more suitable, we are open to exploring that option. Our primary goal is improving our customer experience in addition to internal tools. Its about the experience and customer journey that will ultimately land you this gig.</p>",
+    "Comments": ""
+  },
+  {
+    "Field Name": "Deliverables",
+    "Immediate Selector": "<li data-test="deliverable" data-v-af7e59e9=""><span data-v-af7e59e9="">",
+    "Selector": "<strong class="text-base-sm" data-v-af7e59e9="">Deliverables</strong><ul class="list-styled text-body-sm" data-test="deliverables" data-v-af7e59e9=""><!--[--><li data-test="deliverable" data-v-af7e59e9=""><span data-v-af7e59e9="">Automate client acquisition processes in GoHighLevel</span></li><li data-test="deliverable" data-v-af7e59e9=""><span data-v-af7e59e9="">Provide Email, Text templates and entire automation funnels based on strategic goals.</span></li><li data-test="deliverable" data-v-af7e59e9=""><span data-v-af7e59e9="">Provide strategic CRM recommendations</span></li><li data-test="deliverable" data-v-af7e59e9=""><span data-v-af7e59e9="">Assess current CRM setup and suggest improvements</span></li><!--]--></ul>",
+    "Comments": "This should end up as a list."
+  },
+  {
+    "Field Name": "Experience Level",
+    "Immediate Selector": "<strong data-v-52956d3e="">Intermediate</strong>",
+    "Selector": "<strong data-v-52956d3e="">Intermediate</strong><div class="description" data-v-52956d3e=""><!--[--><span class="d-none d-lg-inline" data-v-52956d3e="">I am looking for a mix of experience and value</span><span class="d-lg-none" data-v-52956d3e="">Experience Level</span>",
+    "Comments": "Here all I really care about is Intermediate. I don't need what they are looking for."
+  },
+
+
+  {
+    "Field Name": "Pay Range",
+    "Immediate Selector": "<strong data-v-801afba5="">$15.00</strong></p><!----></div><!--[--><p class="m-0 mx-1x" data-v-52956d3e="">-</p><div data-v-52956d3e="" data-v-801afba5=""><p class="m-0" data-v-801afba5=""><strong data-v-801afba5="">$38.00</strong>",
+    "Selector": "<div class="d-flex" data-v-52956d3e=""><div data-v-52956d3e="" data-v-801afba5=""><p class="m-0" data-v-801afba5=""><strong data-v-801afba5="">$15.00</strong></p><!----></div><!--[--><p class="m-0 mx-1x" data-v-52956d3e="">-</p><div data-v-52956d3e="" data-v-801afba5=""><p class="m-0" data-v-801afba5=""><strong data-v-801afba5="">$38.00</strong></p><!----></div><!--]--></div><div class="description" data-v-52956d3e="">Hourly</div></li>",
+    "Comments": "The upper value is most important"
+  },
+  {
+    "Field Name": "Contract Type",
+    "Immediate Selector": "<div class="description" data-v-52956d3e="">Hourly</div>",
+    "Selector": "<div class="d-flex" data-v-52956d3e=""><div data-v-52956d3e="" data-v-801afba5=""><p class="m-0" data-v-801afba5=""><strong data-v-801afba5="">$15.00</strong></p><!----></div><!--[--><p class="m-0 mx-1x" data-v-52956d3e="">-</p><div data-v-52956d3e="" data-v-801afba5=""><p class="m-0" data-v-801afba5=""><strong data-v-801afba5="">$38.00</strong></p><!----></div><!--]--></div><div class="description" data-v-52956d3e="">Hourly</div></li>",
+    "Comments": "This will be Fixed or Hourly which we will need for evaluation"
+  },
+  {
+    "Field Name": "Project Type",
+    "Immediate Selector": "<span data-v-67effbff="">Ongoing project</span",
+    "Selector": "<li data-v-67effbff=""><strong class="mr-1x" data-v-67effbff="">Project Type:</strong><span data-v-67effbff="">Ongoing project</span></li>",
+    "Comments": ""
+  },
+  {
+    "Field Name": "Skills",
+    "Immediate Selector": "<div id="air3-line-clamp-20240" class="is-clamped air3-line-clamp" tabindex="-1"><!--[-->Customer Relationship Management<!--]--></div>",
+    "Selector": "<section class="air3-card-section" data-v-73c2c436="" data-v-3b2c2248=""><h5 data-v-3b2c2248="">Skills and Expertise</h5><div class="air3-grid-container gap-2" data-v-3b2c2248=""><!--[--><div class="span-md-12" data-v-3b2c2248=""><strong data-v-3b2c2248="">Mandatory skills</strong><div class="skills-list mt-3" data-v-3b2c2248=""><!--[--><span close-button="false" delay-on-mouse-over="300" size="md" data-v-3b2c2248="" data-v-21998337=""><!----><span slot="reference" data-v-21998337=""><a class="up-n-link air3-badge air3-badge-highlight badge" role="false" href="/nx/search/jobs/?ontology_skill_uid=1031626728555397120" target="_self" data-v-21998337=""><!--[--><div class="air3-line-clamp-wrapper" style="--lines:1;" data-ev-sublocation="!line_clamp" data-v-21998337=""><!----><div id="air3-line-clamp-20240" class="is-clamped air3-line-clamp" tabindex="-1"><!--[-->Customer Relationship Management<!--]--></div><!----></div><!--]--></a></span></span><span close-button="false" delay-on-mouse-over="300" size="md" data-v-3b2c2248="" data-v-21998337=""><!----><span slot="reference" data-v-21998337=""><a class="up-n-link air3-badge air3-badge-highlight badge" role="false" href="/nx/search/jobs/?ontology_skill_uid=1031626758485950464" target="_self" data-v-21998337=""><!--[--><div class="air3-line-clamp-wrapper" style="--lines:1;" data-ev-sublocation="!line_clamp" data-v-21998337=""><!----><div id="air3-line-clamp-20241" class="is-clamped air3-line-clamp" tabindex="-1"><!--[-->Microsoft Dynamics CRM<!--]--></div><!----></div><!--]--></a></span></span><!--]--><!----></div></div><div class="span-md-12" data-v-3b2c2248=""><strong data-v-3b2c2248="">Nice-to-have skills</strong><div class="skills-list mt-3" data-v-3b2c2248=""><!--[--><span close-button="false" delay-on-mouse-over="300" size="md" data-v-3b2c2248="" data-v-21998337=""><!----><span slot="reference" data-v-21998337=""><a class="up-n-link air3-badge air3-badge-highlight badge" role="false" href="/nx/search/jobs/?ontology_skill_uid=1031626798172454912" target="_self" data-v-21998337=""><!--[--><div class="air3-line-clamp-wrapper" style="--lines:1;" data-ev-sublocation="!line_clamp" data-v-21998337=""><!----><div id="air3-line-clamp-20242" class="is-clamped air3-line-clamp" tabindex="-1"><!--[-->Zoho CRM<!--]--></div><!----></div><!--]--></a></span></span><span close-button="false" delay-on-mouse-over="300" size="md" data-v-3b2c2248="" data-v-21998337=""><!----><span slot="reference" data-v-21998337=""><a class="up-n-link air3-badge air3-badge-highlight badge" role="false" href="/nx/search/jobs/?ontology_skill_uid=1031626798164066304" target="_self" data-v-21998337=""><!--[--><div class="air3-line-clamp-wrapper" style="--lines:1;" data-ev-sublocation="!line_clamp" data-v-21998337=""><!----><div id="air3-line-clamp-20243" class="is-clamped air3-line-clamp" tabindex="-1"><!--[-->Zoho Creator<!--]--></div><!----></div><!--]--></a></span></span><!--]--><!----></div></div><div class="span-md-12" data-v-3b2c2248=""><strong data-v-3b2c2248="">Tools</strong><div class="skills-list mt-3" data-v-3b2c2248=""><!--[--><span close-button="false" delay-on-mouse-over="300" size="md" data-v-3b2c2248="" data-v-21998337=""><!----><span slot="reference" data-v-21998337=""><a class="up-n-link air3-badge air3-badge-highlight badge" role="false" href="/nx/search/jobs/?ontology_skill_uid=undefined" target="_self" data-v-21998337=""><!--[--><div class="air3-line-clamp-wrapper" style="--lines:1;" data-ev-sublocation="!line_clamp" data-v-21998337=""><!----><div id="air3-line-clamp-20244" class="is-clamped air3-line-clamp" tabindex="-1"><!--[-->GoHighLevel<!--]--></div><!----></div><!--]--></a></span></span><span close-button="false" delay-on-mouse-over="300" size="md" data-v-3b2c2248="" data-v-21998337=""><!----><span slot="reference" data-v-21998337=""><a class="up-n-link air3-badge air3-badge-highlight badge" role="false" href="/nx/search/jobs/?ontology_skill_uid=undefined" target="_self" data-v-21998337=""><!--[--><div class="air3-line-clamp-wrapper" style="--lines:1;" data-ev-sublocation="!line_clamp" data-v-21998337=""><!----><div id="air3-line-clamp-20245" class="is-clamped air3-line-clamp" tabindex="-1"><!--[-->Microsoft Dynamics CRM<!--]--></div><!----></div><!--]--></a></span></span><span close-button="false" delay-on-mouse-over="300" size="md" data-v-3b2c2248="" data-v-21998337=""><!----><span slot="reference" data-v-21998337=""><a class="up-n-link air3-badge air3-badge-highlight badge" role="false" href="/nx/search/jobs/?ontology_skill_uid=undefined" target="_self" data-v-21998337=""><!--[--><div class="air3-line-clamp-wrapper" style="--lines:1;" data-ev-sublocation="!line_clamp" data-v-21998337=""><!----><div id="air3-line-clamp-20246" class="is-clamped air3-line-clamp" tabindex="-1"><!--[-->Zoho CRM<!--]--></div><!----></div><!--]--></a></span></span><!--]--><!----></div></div><!--]--></div></section>",
+    "Comments": "I need a list."
+  },
+  {
+    "Field Name": "Preferred Qualifiications",
+    "Immediate Selector": "<section class="air3-card-section air3-grid-container" data-v-73c2c436=""><section class="span-md-6" data-v-73c2c436="" data-v-262c0dd3=""><h5 data-v-262c0dd3="">Preferred qualifications</h5><ul class="qualification-items list-unstyled" data-v-262c0dd3=""><!----><!----><!----><!----><!----><!----><!----><!----><!----></ul></section>",
+    "Selector": "<section class="air3-card-section air3-grid-container" data-v-73c2c436=""><section class="span-md-6" data-v-73c2c436="" data-v-262c0dd3=""><h5 data-v-262c0dd3="">Preferred qualifications</h5><ul class="qualification-items list-unstyled" data-v-262c0dd3=""><!----><!----><!----><!----><!----><!----><!----><!----><!----></ul></section>",
+    "Comments": "This did not have any."
+  },
+  {
+    "Field Name": "Activity on this job",
+    "Immediate Selector": "<section class="span-md-6" data-v-73c2c436="" data-v-e47e1b5e="">",
+    "Selector": "<section class="span-md-6" data-v-73c2c436="" data-v-e47e1b5e=""><h5 data-v-e47e1b5e="">Activity on this job</h5><ul class="client-activity-items list-unstyled" data-v-e47e1b5e=""><li class="ca-item" data-v-e47e1b5e=""><span class="title" data-v-e47e1b5e="">Proposals:</span><span data-v-e47e1b5e="" data-ev-sublocation="!popper" class="help-icon"><span><div data-v-e47e1b5e="" class="air3-icon sm d-flex air3-popper-trigger" aria-label="More info about proposals" aria-expanded="false" tabindex="0" role="button"><svg xmlns="http://www.w3.org/2000/svg" fill="none" aria-hidden="true" viewBox="0 0 24 24" role="img"><path vector-effect="non-scaling-stroke" stroke="var(--icon-color, #001e00)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9.06 10.13c0-1.61 1.31-2.79 3.07-2.79 1.61 0 2.92 1.03 2.79 2.49-.15 1.03-1.61 1.61-2.19 2.49-.58.73-.58 1.31-.73 1.76m0 2.45v.13M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg></div></span><span id="popper_2" data-test="popper" data-show="" class="air3-popper air3-popover" style="display: none;"><div class="size-md air3-popper-container"><div class="air3-popper-wrapper"><div class="air3-popper-inner"><button class="air3-popper-close" type="button" data-test="popper-close-btn" data-ev-label="popper_close"><span class="sr-only">Close the tooltip</span><div class="air3-icon md"><svg xmlns="http://www.w3.org/2000/svg" fill="none" aria-hidden="true" viewBox="0 0 24 24" role="img"><path vector-effect="non-scaling-stroke" stroke="var(--icon-color, #001e00)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5" d="M4 4l16 16m0-16L4 20"></path></svg></div></button><div class="air3-popper-content"><p data-v-e47e1b5e="" class="m-0">This range includes relevant proposals, but does not include proposals that are withdrawn, declined, or archived. Please note that all proposals are accessible to clients on their applicants page.</p></div><div data-popper-arrow="" data-test="popper-arrow" class="air3-popper-arrow"></div></div></div></div></span></span><span class="value" data-v-e47e1b5e="">15 to 20</span></li><li class="ca-item" data-v-e47e1b5e=""><span class="title" data-v-e47e1b5e="">Last viewed by client:</span><span data-v-e47e1b5e="" data-ev-sublocation="!popper" class="help-icon"><span><div data-v-e47e1b5e="" class="air3-icon sm d-flex air3-popper-trigger" id="last-viewed" aria-label="More info about Last Viewed" aria-expanded="false" tabindex="0" role="button"><svg xmlns="http://www.w3.org/2000/svg" fill="none" aria-hidden="true" viewBox="0 0 24 24" role="img"><path vector-effect="non-scaling-stroke" stroke="var(--icon-color, #001e00)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9.06 10.13c0-1.61 1.31-2.79 3.07-2.79 1.61 0 2.92 1.03 2.79 2.49-.15 1.03-1.61 1.61-2.19 2.49-.58.73-.58 1.31-.73 1.76m0 2.45v.13M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg></div></span><span id="popper_3" data-test="popper" data-show="" class="air3-popper air3-popover" style="display: none;"><div class="size-md air3-popper-container"><div class="air3-popper-wrapper"><div class="air3-popper-inner"><button class="air3-popper-close" type="button" data-test="popper-close-btn" data-ev-label="popper_close"><span class="sr-only">Close the tooltip</span><div class="air3-icon md"><svg xmlns="http://www.w3.org/2000/svg" fill="none" aria-hidden="true" viewBox="0 0 24 24" role="img"><path vector-effect="non-scaling-stroke" stroke="var(--icon-color, #001e00)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5" d="M4 4l16 16m0-16L4 20"></path></svg></div></button><div class="air3-popper-content"><p data-v-e47e1b5e="">This is when the client last reviewed or interacted with the applicants for this job.</p></div><div data-popper-arrow="" data-test="popper-arrow" class="air3-popper-arrow"></div></div></div></div></span></span><span class="value" data-v-e47e1b5e="">17 minutes ago</span></li><!----><li class="ca-item" data-v-e47e1b5e=""><span class="title" data-v-e47e1b5e="">Interviewing:</span><div class="value" data-v-e47e1b5e="">0</div></li><li class="ca-item" data-v-e47e1b5e=""><span class="title" data-v-e47e1b5e="">Invites sent:</span><div class="value" data-v-e47e1b5e="">0</div></li><li class="ca-item" data-v-e47e1b5e=""><span class="title" data-v-e47e1b5e="">Unanswered invites:</span><div class="value" data-v-e47e1b5e="">0</div></li><!----></ul></section>",
+    "Comments": "This can be a list of names and values. I'm interested in Proposals,Last viewed by client, Interviewing, Invites sent, and Unanswered invites"
+  }
+]
+

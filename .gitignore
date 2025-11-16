@@ -1,2 +1,35 @@
-# category
-/servers
+#node modules - can probably be deleted later on.
+mcp-servers/hello-world/node_modules/
+mcp-servers/upwork-scraper/browser_data/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Environment variables (CRITICAL - contains passwords!)
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Playwright browsers
+.playwright/
